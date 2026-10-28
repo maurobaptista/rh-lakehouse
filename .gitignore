@@ -1,0 +1,17 @@
+# Variáveis de Ambiente (Segurança Crítica)
+.env
+
+# Ambientes Virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Ficheiros de Cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ficheiros temporários e de Sistema Operativo
+.DS_Store
+Thumbs.db

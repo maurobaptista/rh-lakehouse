@@ -1,0 +1,8 @@
+pandas
+deltalake
+faker
+reportlab
+psycopg2-binary
+supabase
+azure-storage-blob
+python-dotenv
